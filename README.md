@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my personal website www.raphaelcunha.com.br
 
-- 🌱 I’m currently learning **ReactJS and VueJS**
+- 🌱 I’m currently learning AngularJS
 
 - 👨‍💻 All of my projects are available at [www.raphaelcunha.com.br](www.raphaelcunha.com.br)
 
