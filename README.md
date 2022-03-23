@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **<a href="https://nestjs.com/" target="_blank">NestJS</a>**
 
-- 👨‍💻 All of my projects are available at [www.raphaelcunha.com.br](www.raphaelcunha.com.br)
+- 👨‍💻 All of my projects are available at www.raphaelcunha.com.br
 
 - 📫 How to reach me **raphaelcdutra93@gmail.com**
 
