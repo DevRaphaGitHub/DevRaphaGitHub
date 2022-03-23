@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devraphagithub" alt="devraphagithub" /></a> </p>
 
-- 🔭 I’m currently working on my personal website www.raphaelcunha.com.br
+- 🔭 I’m currently working on https://giganti.com.br/
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **https://nestjs.com/**
 
 - 👨‍💻 All of my projects are available at [www.raphaelcunha.com.br](www.raphaelcunha.com.br)
 
