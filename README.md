@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraphagithub&label=Profile%20views&color=0e75b6&style=flat" alt="devraphagithub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devraphagithub" alt="devraphagithub" /></a> </p>
-
 - 🔭 I’m currently working on <a href="https://giganti.com.br/" target="_blank">Giganti</a>
 
 - 🌱 I’m currently learning **<a href="https://nestjs.com/" target="_blank">NestJS</a>**
